@@ -1,0 +1,46 @@
+/*Қалалары*/
+
+body {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.b1, .b2, .b3 {
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+
+.b1 {
+    width: 400px;
+    background: #14264d;
+}
+
+.b2 {
+    width: 50%;
+    text-align: center;
+    background: #1c4ccc;
+}
+
+.b3 {
+    width: 20em;
+    text-align: right;
+    background: #a50044;
+}
+
+img {
+    width: 50%;
+}
+
+video {
+    width: 30em;
+}
+
+audio {
+    width: 300px;
+}

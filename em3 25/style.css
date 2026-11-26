@@ -1,0 +1,33 @@
+/* Абайдың өлеңі */
+
+body {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+p {
+    font-size: 1em;
+    text-align: right;
+}
+
+.ulken {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+strong {
+    font-size: 1.5em;
+    text-decoration: underline;
+}
+.surret {
+    text-align: center;
+}
+
+.surret img {
+    width: 40%;
+}
